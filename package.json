@@ -1,6 +1,6 @@
 {
   "name": "mime-header-word",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts MIME encoded-word header tokens into plain text strings.",
   "type": "module",
   "main": "src/index.js",
